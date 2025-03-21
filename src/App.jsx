@@ -1,7 +1,7 @@
 // import { useState } from 'react'
 import Home from './components/home/Home'
 import About from './components/about/About'
-import Port from './components/portfolio/port'
+import Port from './components/portfolio/Port'
 import Contact from './components/contact/Contact'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Layout from './components/Layoout/Layout'
